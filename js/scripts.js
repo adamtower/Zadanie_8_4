@@ -1,5 +1,5 @@
-var a=prompt("Podaj wartość a",a),
-    h=prompt("Podaj wartość h",h),
+var a=prompt("Podaj wartość a"),
+    h=prompt("Podaj wartość h"),
     triangleArea;
 triangleArea = a*h/2;
 alert('Pole trójkąta o podstawie a: ' + a + ' i wysokości h: ' + h + ' wynosi: ' + triangleArea);
